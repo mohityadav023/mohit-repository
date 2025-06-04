@@ -1,2 +1,2 @@
 # mohit-repository
-mohit_2:30
+mohit_2:40_react
